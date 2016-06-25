@@ -1,0 +1,25 @@
+{
+  "name": "i18n_static_npm",
+  "authors": [
+    "Damien RAYMOND <dam.ray49@gmail.com>"
+  ],
+  "description": "static i18n site generation",
+  "main": "app.js",
+  "keywords": [
+    "i18n",
+    "site",
+    "generation"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "async": "^1.5.2"
+  }
+}
